@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Game_HIT\\BTVN 2\\Bai_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{178E8C85-F4EE-FA63-0267-5F33D7BEC446}|Bai_1\\Bai_1.csproj|e:\\game_hit\\btvn 2\\bai_1\\bai_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{178E8C85-F4EE-FA63-0267-5F33D7BEC446}|Bai_1\\Bai_1.csproj|solutionrelative:bai_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Game_HIT\\BTVN 2\\Bai_1\\Bai_1\\Program.cs",
+              "RelativeDocumentMoniker": "Bai_1\\Program.cs",
+              "ToolTip": "E:\\Game_HIT\\BTVN 2\\Bai_1\\Bai_1\\Program.cs",
+              "RelativeToolTip": "Bai_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T07:55:22.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
