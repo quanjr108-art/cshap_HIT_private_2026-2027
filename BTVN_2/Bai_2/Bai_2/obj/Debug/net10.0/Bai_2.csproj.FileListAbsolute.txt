@@ -1,0 +1,16 @@
+E:\Game_HIT\BTVN_2\Bai_2\Bai_2\bin\Debug\net10.0\Bai_2.exe
+E:\Game_HIT\BTVN_2\Bai_2\Bai_2\bin\Debug\net10.0\Bai_2.deps.json
+E:\Game_HIT\BTVN_2\Bai_2\Bai_2\bin\Debug\net10.0\Bai_2.runtimeconfig.json
+E:\Game_HIT\BTVN_2\Bai_2\Bai_2\bin\Debug\net10.0\Bai_2.dll
+E:\Game_HIT\BTVN_2\Bai_2\Bai_2\bin\Debug\net10.0\Bai_2.pdb
+E:\Game_HIT\BTVN_2\Bai_2\Bai_2\obj\Debug\net10.0\Bai_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Game_HIT\BTVN_2\Bai_2\Bai_2\obj\Debug\net10.0\Bai_2.AssemblyInfoInputs.cache
+E:\Game_HIT\BTVN_2\Bai_2\Bai_2\obj\Debug\net10.0\Bai_2.AssemblyInfo.cs
+E:\Game_HIT\BTVN_2\Bai_2\Bai_2\obj\Debug\net10.0\Bai_2.csproj.CoreCompileInputs.cache
+E:\Game_HIT\BTVN_2\Bai_2\Bai_2\obj\Debug\net10.0\Bai_2.sourcelink.json
+E:\Game_HIT\BTVN_2\Bai_2\Bai_2\obj\Debug\net10.0\Bai_2.dll
+E:\Game_HIT\BTVN_2\Bai_2\Bai_2\obj\Debug\net10.0\refint\Bai_2.dll
+E:\Game_HIT\BTVN_2\Bai_2\Bai_2\obj\Debug\net10.0\Bai_2.pdb
+E:\Game_HIT\BTVN_2\Bai_2\Bai_2\obj\Debug\net10.0\Bai_2.genruntimeconfig.cache
+E:\Game_HIT\BTVN_2\Bai_2\Bai_2\obj\Debug\net10.0\ref\Bai_2.dll
+E:\Game_HIT\BTVN_2\Bai_2\Bai_2\obj\Debug\net10.0\Bai_2.csproj.Up2Date
